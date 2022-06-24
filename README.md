@@ -42,7 +42,7 @@
   
   
   ## Repository:
-  * The URL of the deployed application:
-  * *The URL of the deployed application :
+  * The URL of the deployed application: https://github.com/mobehnas/password-generator
+  * The URL of the deployed application : https://mobehnas.github.io/password-generator/
   
   
